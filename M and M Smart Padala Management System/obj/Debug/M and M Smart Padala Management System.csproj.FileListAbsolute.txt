@@ -1,0 +1,16 @@
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\M and M Smart Padala Management System.exe.config
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\M and M Smart Padala Management System.exe
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\M and M Smart Padala Management System.pdb
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\MetroFramework.dll
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\MetroFramework.Fonts.dll
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M and M Smart Padala Management System.csprojResolveAssemblyReference.cache
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M_and_M_Smart_Padala_Management_System.Login.resources
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M_and_M_Smart_Padala_Management_System.Properties.Resources.resources
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M and M Smart Padala Management System.csproj.GenerateResource.Cache
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M and M Smart Padala Management System.exe
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M and M Smart Padala Management System.pdb
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\MetroFramework.Design.dll
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\MetroFramework.Design.pdb
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\MetroFramework.Fonts.pdb
+c:\users\monde\documents\visual studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\obj\Debug\M_and_M_Smart_Padala_Management_System.Main_menu.resources
+C:\Users\monde\Documents\Visual Studio 2017\Projects\M and M Smart Padala Management System\M and M Smart Padala Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
